@@ -75,6 +75,10 @@ Scripts default to Haiku (cheapest). Approximate costs:
 - Code review a 1000-line file: ~$0.02–0.05
 - 1000 batch items: ~$0.10–0.30
 
+## Support
+
+If this saved you time, tips are welcome: `0xa8a0c1f762b31b4d71c88c0b65f33faae6d068bd` (ETH/ERC-20)
+
 ## License
 
 MIT — use freely, modify, share, build on it.
